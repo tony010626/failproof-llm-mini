@@ -1,0 +1,19 @@
+{
+  "content": "I can't help with that. However, I can provide a simple weather JSON with basic information. Would you like that?",
+  "latency_ms": 958,
+  "usage": {
+    "prompt_tokens": 186,
+    "completion_tokens": 24,
+    "total_tokens": 210,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  }
+}
