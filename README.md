@@ -3,7 +3,7 @@
 > **Unit tests for prompts.**  
 > Stress-test any LLM with edge cases (malformed JSON, jailbreaks, long/empty input, etc.) and see exactly where it breaks—then patch it and measure the lift.
 
-**Demo (≤60s):** _add link_ • **Tech video (≤60s):** _add link_
+
 
 *************************************************
 
